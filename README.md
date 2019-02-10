@@ -1,0 +1,3 @@
+An example repository for  running Spring Cloud Functions on AWS Lambda with dynamo db and Apigateway....
+
+
